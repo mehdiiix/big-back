@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76fb6f27-4d81-4a86-b92a-2a24262be1f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/train2/src/main/java/com/example/discovery_server/DiscoveryserverApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train4/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train4/src/main/java/com/example/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train" beforeDir="false" afterPath="$PROJECT_DIR$/train" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/train/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/train/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train2" beforeDir="false" afterPath="$PROJECT_DIR$/train2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/train2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train2/src/main/java/Controllers/Filmcontroller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train2/src/main/java/Entities/Films.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train2/src/main/java/Repo/Filmrepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train2/src/main/java/Services/Filmservice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train2/src/main/java/com/example/gestion_films/GestionFilmsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train2/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/train2/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train2/src/test/java/com/example/gestion_films/GestionFilmsApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/train2/src/test/java/com/example/gestion_films/DiscoveryserverApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train3" beforeDir="false" afterPath="$PROJECT_DIR$/train3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/train3/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train3/src/main/java/Controllers/Ticketcontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/train3/src/main/java/Controllers/Ticketcontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train3/src/main/java/Services/Ticketservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/train3/src/main/java/Services/Ticketservice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train3/src/main/java/com/example/gestion_tickets/GestionTicketsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/train3/src/main/java/com/example/gestion_tickets/GestionTicketsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train3/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/train3/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train4" beforeDir="false" afterPath="$PROJECT_DIR$/train4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train4/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/train4/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train4/src/main/java/Controllers/Ticketcontroller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train4/src/main/java/Entities/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train4/src/main/java/Repo/Ticketrepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train4/src/main/java/Services/Ticketservice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train4/src/main/java/com/example/gestion_tickets/GestionTicketsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train4/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/train4/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2gpVrmplSkvaDDsKkz8kI8FfDsy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Docker.train4/Dockerfile.executor": "Run",
+    "Maven.backend [com.google.cloud.tools:jib-maven-plugin:3.2.1:buildTar].executor": "Run",
+    "Maven.backend [com.google.cloud.tools:jib-maven-plugin:3.2.1:build].executor": "Run",
+    "Maven.backend [com.google.cloud.tools:jib-maven-plugin:3.2.1:dockerBuild].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ApiGatewayApplication.executor": "Run",
+    "Spring Boot.DiscoveryserverApplication.executor": "Run",
+    "Spring Boot.GestionFilmsApplication.executor": "Run",
+    "Spring Boot.GestionTicketsApplication.executor": "Run",
+    "git-widget-placeholder": "<unknown>",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/hp/Desktop/backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DiscoveryserverApplication">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ApiGateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="discovery_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.discovery_server.DiscoveryserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestionFilmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Gestion_films" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gestion_films.GestionFilmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestionTicketsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Gestion_tickets" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gestion_tickets.GestionTicketsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train4/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="train4/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.train4/Dockerfile" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.GestionFilmsApplication" />
+      <item itemvalue="Spring Boot.DiscoveryserverApplication" />
+      <item itemvalue="Spring Boot.GestionTicketsApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.train4/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76fb6f27-4d81-4a86-b92a-2a24262be1f5" name="Changes" comment="" />
+      <created>1716394707004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716394707004</updated>
+      <workItem from="1716394708101" duration="2736000" />
+      <workItem from="1716436586493" duration="48000" />
+      <workItem from="1716437073560" duration="12290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

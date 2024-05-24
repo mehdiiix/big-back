@@ -5,12 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76fb6f27-4d81-4a86-b92a-2a24262be1f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/grstionville" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grstionville/src/test/java/com/example/gestion_ville/Services/CinemaserviceIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grstionville/src/test/java/com/example/gestion_ville/Services/CinemaserviceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grstionville/src/test/resources/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train/src/test/java/com/example/gestion_films/Controllers/FilmcontrollerIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train/src/test/java/com/example/gestion_films/Controllers/FilmcontrollerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train/src/test/resources/application-test.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/train2/src/main/java/com/example/discovery_server/DiscoveryserverApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train3/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train3/src/test/java/com/example/gestion_tickets/Controllers/TicketcontrollerIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train3/src/test/java/com/example/gestion_tickets/Services/Ticketservice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train3/src/test/java/com/example/gestion_tickets/Services/TicketserviceIntegrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train3/src/test/resources/application-test.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/train4/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/train4/src/main/java/com/example/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train4/src/test/java/ressources/application-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grstionville/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grstionville/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grstionville/src/main/java/Controllers/Restcontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/grstionville/src/main/java/com/example/gestion_ville/Controllers/Restcontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grstionville/src/main/java/Controllers/villecontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/grstionville/src/main/java/com/example/gestion_ville/Controllers/Villecontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grstionville/src/main/java/Entities/Cinema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grstionville/src/main/java/Entities/Ville.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grstionville/src/main/java/Repo/Cinemarepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/grstionville/src/main/java/com/example/gestion_ville/Repo/Cinemarepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grstionville/src/main/java/Repo/Villerepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/grstionville/src/main/java/com/example/gestion_ville/Repo/Villerepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grstionville/src/main/java/Services/Cinemaservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/grstionville/src/main/java/com/example/gestion_ville/Services/Cinemaservice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grstionville/src/main/java/Services/Villeservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/grstionville/src/main/java/com/example/gestion_ville/Services/Villeservice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grstionville/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/grstionville/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train" beforeDir="false" afterPath="$PROJECT_DIR$/train" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/train/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/train/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/src/main/java/Controllers/Filmcontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/train/src/main/java/com/example/gestion_films/Controllers/Filmcontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/src/main/java/Entities/Films.java" beforeDir="false" afterPath="$PROJECT_DIR$/train/src/main/java/com/example/gestion_films/Entities/Films.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/src/main/java/Repo/Filmrepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/train/src/main/java/com/example/gestion_films/Repo/Filmrepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train/src/main/java/Services/Filmservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/train/src/main/java/com/example/gestion_films/Services/Filmservice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/train/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train2" beforeDir="false" afterPath="$PROJECT_DIR$/train2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train2/.gitignore" beforeDir="false" />
@@ -25,8 +59,10 @@
       <change beforePath="$PROJECT_DIR$/train3" beforeDir="false" afterPath="$PROJECT_DIR$/train3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train3/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/train3/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/train3/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train3/src/main/java/Controllers/Ticketcontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/train3/src/main/java/Controllers/Ticketcontroller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train3/src/main/java/Services/Ticketservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/train3/src/main/java/Services/Ticketservice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train3/src/main/java/Controllers/Ticketcontroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/train3/src/main/java/com/example/gestion_tickets/Controllers/Ticketcontroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train3/src/main/java/Entities/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/train3/src/main/java/com/example/gestion_tickets/Entities/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train3/src/main/java/Repo/Ticketrepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/train3/src/main/java/com/example/gestion_tickets/Repo/Ticketrepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train3/src/main/java/Services/Ticketservice.java" beforeDir="false" afterPath="$PROJECT_DIR$/train3/src/main/java/com/example/gestion_tickets/Services/Ticketservice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train3/src/main/java/com/example/gestion_tickets/GestionTicketsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/train3/src/main/java/com/example/gestion_tickets/GestionTicketsApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train3/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/train3/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/train4" beforeDir="false" afterPath="$PROJECT_DIR$/train4" afterDir="false" />
@@ -44,8 +80,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/grstionville" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -55,14 +98,46 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2gpVrmplSkvaDDsKkz8kI8FfDsy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Docker.train3/Dockerfile.executor": "Run",
     "Docker.train4/Dockerfile.executor": "Run",
+    "JUnit.CinemaserviceIntegrationTest.executor": "Run",
+    "JUnit.CinemaserviceTest.executor": "Run",
+    "JUnit.CinemaserviceTest.testCreerCinema.executor": "Run",
+    "JUnit.CinemaserviceTest.testListesCinema.executor": "Run",
+    "JUnit.CinemaserviceTest.testSupprimeTout.executor": "Run",
+    "JUnit.CinemaserviceTest.testSupprimerCinema.executor": "Run",
+    "JUnit.CinemaserviceTest.testTrouverCinema.executor": "Run",
+    "JUnit.FilmcontrollerIntegrationTest.executor": "Run",
+    "JUnit.FilmcontrollerTest.executor": "Run",
+    "JUnit.FilmcontrollerTest.testAjouterFilm.executor": "Run",
+    "JUnit.FilmcontrollerTest.testChercherFilm.executor": "Run",
+    "JUnit.FilmcontrollerTest.testGetFilms.executor": "Run",
+    "JUnit.FilmcontrollerTest.testMiseAJourFilm.executor": "Run",
+    "JUnit.FilmcontrollerTest.testSupprimeTout.executor": "Run",
+    "JUnit.FilmcontrollerTest.testSupprimerFilm.executor": "Run",
+    "JUnit.RestcontrollerTest.executor": "Run",
+    "JUnit.RestcontrollerTest.testGetCinema.executor": "Run",
+    "JUnit.TicketcontrollerIntegrationTest.executor": "Run",
+    "JUnit.TicketcontrollerTest.executor": "Run",
+    "JUnit.TicketcontrollerTest.testAjouterTicket.executor": "Run",
+    "JUnit.TicketcontrollerTest.testChercherTicket.executor": "Run",
+    "JUnit.TicketcontrollerTest.testGetTickets.executor": "Run",
+    "JUnit.TicketcontrollerTest.testMiseAJourTicket.executor": "Run",
+    "JUnit.TicketcontrollerTest.testSupprimerTicket.executor": "Run",
+    "JUnit.TicketserviceIntegrationTest.executor": "Run",
+    "JUnit.TicketserviceTest.executor": "Run",
+    "Maven.Gestion_ville [test].executor": "Run",
     "Maven.backend [com.google.cloud.tools:jib-maven-plugin:3.2.1:buildTar].executor": "Run",
     "Maven.backend [com.google.cloud.tools:jib-maven-plugin:3.2.1:build].executor": "Run",
     "Maven.backend [com.google.cloud.tools:jib-maven-plugin:3.2.1:dockerBuild].executor": "Run",
@@ -76,7 +151,8 @@
     "Spring Boot.DiscoveryserverApplication.executor": "Run",
     "Spring Boot.GestionFilmsApplication.executor": "Run",
     "Spring Boot.GestionTicketsApplication.executor": "Run",
-    "git-widget-placeholder": "<unknown>",
+    "Spring Boot.GestionVilleApplication.executor": "Run",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/hp/Desktop/backend",
     "node.js.detected.package.eslint": "true",
@@ -85,10 +161,13 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable",
+    "settings.editor.selected.configurable": "Docker",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="configurationTypes">
       <set>
@@ -98,7 +177,82 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DiscoveryserverApplication">
+  <component name="RunManager" selected="JUnit.TicketcontrollerIntegrationTest">
+    <configuration name="FilmcontrollerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gestion_films" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gestion_films.Controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.gestion_films.Controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.example.gestion_films.Controllers.FilmcontrollerIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FilmcontrollerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gestion_films" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gestion_films.Controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.gestion_films.Controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.example.gestion_films.Controllers.FilmcontrollerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketcontrollerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gestion_tickets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gestion_tickets.Controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.gestion_tickets.Controllers" />
+      <option name="MAIN_CLASS_NAME" value="com.example.gestion_tickets.Controllers.TicketcontrollerIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketserviceIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gestion_tickets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gestion_tickets.Services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.gestion_tickets.Services" />
+      <option name="MAIN_CLASS_NAME" value="com.example.gestion_tickets.Services.TicketserviceIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketserviceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Gestion_tickets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gestion_tickets.Services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.gestion_tickets.Services" />
+      <option name="MAIN_CLASS_NAME" value="com.example.gestion_tickets.Services.TicketserviceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="ApiGateway" />
@@ -131,28 +285,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
-      <deployment type="dockerfile" />
-      <method v="2" />
+    <configuration name="GestionVilleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="Gestion_ville" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.gestion_ville.GestionVilleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="train4/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
       <deployment type="dockerfile">
-        <settings>
-          <option name="sourceFilePath" value="train4/Dockerfile" />
-        </settings>
+        <settings />
       </deployment>
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Docker.train4/Dockerfile" />
+      <item itemvalue="JUnit.FilmcontrollerIntegrationTest" />
+      <item itemvalue="JUnit.FilmcontrollerTest" />
+      <item itemvalue="JUnit.TicketcontrollerIntegrationTest" />
+      <item itemvalue="JUnit.TicketserviceIntegrationTest" />
+      <item itemvalue="JUnit.TicketserviceTest" />
       <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.GestionVilleApplication" />
       <item itemvalue="Spring Boot.GestionFilmsApplication" />
       <item itemvalue="Spring Boot.DiscoveryserverApplication" />
       <item itemvalue="Spring Boot.GestionTicketsApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Docker.train4/Dockerfile" />
+        <item itemvalue="JUnit.TicketcontrollerIntegrationTest" />
+        <item itemvalue="JUnit.TicketserviceIntegrationTest" />
+        <item itemvalue="JUnit.TicketserviceTest" />
+        <item itemvalue="JUnit.FilmcontrollerIntegrationTest" />
+        <item itemvalue="JUnit.FilmcontrollerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -174,11 +339,31 @@
       <updated>1716394707004</updated>
       <workItem from="1716394708101" duration="2736000" />
       <workItem from="1716436586493" duration="48000" />
-      <workItem from="1716437073560" duration="12290000" />
+      <workItem from="1716437073560" duration="14153000" />
+      <workItem from="1716478721146" duration="10517000" />
+      <workItem from="1716499216254" duration="19644000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/train/src/test/java/com/example/gestion_films/Controllers/FilmcontrollerTest.java</url>
+          <line>56</line>
+          <properties class="com.example.gestion_films.Controllers.FilmcontrollerTest" method="testSupprimerFilm">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

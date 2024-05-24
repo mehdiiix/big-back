@@ -17,6 +17,7 @@
         <module>train2</module>
         <module>train3</module>
         <module>train4</module>
+        <module>grstionville</module>
     </modules>
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
